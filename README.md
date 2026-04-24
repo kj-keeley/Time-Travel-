@@ -1,5 +1,5 @@
 # Time-Travel-
-Theory of how to time travel 
+Theory of time travel 
 
 # Tree Structure Theory of Time Travel
 
